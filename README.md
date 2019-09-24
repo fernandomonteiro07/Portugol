@@ -1,2 +1,2 @@
-# Portugol
+# VisualG (Portugol)
 Exercícios no Portugol
