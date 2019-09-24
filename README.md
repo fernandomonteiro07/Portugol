@@ -1,2 +1,2 @@
 # VisualG (Portugol)
-Exercícios no Portugol
+Exercícios no VisualG3 - Portugol
